@@ -1,0 +1,49 @@
+body{
+    background-color: cadetblue;
+}
+
+.cat{
+    font-size: 50px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+button{
+    font-size: 100px;
+    background-color: rgb(16, 188, 188);
+    width: 120px;
+    height: 40px ;
+}
+
+button:focus{
+width: 100px;
+height: 30px;
+}
+
+.modal-title{
+    font-size: 30px;
+}
+
+#your_sketch,#confidence,#sketch-to-draw{
+    font-size: 25px;
+    font-family: 'Noto Serif Tamil', serif;
+}
+
+#sketch-to-draw{
+    font-size: 25px;
+    font-family: 'Noto Serif Tamil', serif;
+    color: red;
+}
+
+#score{
+    font-size: 40px;
+    float: left;
+    padding-left: 30px;
+    font-family: 'Diphylleia', serif;
+}
+
+#timer{
+    font-size: 40px;
+    float:right;
+    padding-right: 80px;
+    font-family: 'Diphylleia', serif;
+}
